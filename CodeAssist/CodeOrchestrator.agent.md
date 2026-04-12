@@ -26,12 +26,6 @@ orchestrated_agents:
 # Configuration
 skillsDirectory: ./Skills
 
-# Agent Implementation
-The CodeManager agent orchestrates the following agents in order:
-1. CodeArchitect.agent
-2. CodeGatekeeper.agent
-3. EnglishJanitor.agent
-
 ## Orchestration Logic (Pseudocode)
 
 1. **Receive Task:** Accept a user request (e.g., code review, refactor, quality check).
