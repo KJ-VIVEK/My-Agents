@@ -35,15 +35,6 @@ Manages source control workflows with precision. Handles git operations includin
 - Remote repository operations
 - Git workflow automation
 
-### 4. **Code Architect**
-Provides high-level architectural guidance and design patterns for complex systems.
-
-### 5. **Code Gatekeeper**
-Enforces coding standards and review gates to maintain quality thresholds.
-
-### 6. **English Janitor**
-Refines written content, documentation, and communication materials for clarity and professionalism.
-
 ## Usage
 
 Each agent can be invoked through VS Code's chat interface with the `#agent` command or through the VS Code command palette. Agents are designed to work independently or in coordination for comprehensive code review and development support.

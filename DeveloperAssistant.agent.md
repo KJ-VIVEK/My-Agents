@@ -1,7 +1,7 @@
 ---
 name: Developer Assistant
 description: Analyzes code architecture, design patterns, and code flow. Recommends improvements for scalability, modularity, separation of concerns, and suggests optimal code flow paths. Analysis only—no implementation.
-argument-hint: "Review and analyze the selected code"
+
 target: vscode
 disable-model-invocation: true
 tools: ['search', 'read', 'web', 'vscode/askQuestions']

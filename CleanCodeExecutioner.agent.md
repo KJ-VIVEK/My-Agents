@@ -3,6 +3,7 @@ title: Clean Code Executioner
 
 description: Enforces clean code principles and writing standards through comprehensive code reviews. Ensures code adheres to Uncle Bob's clean code standards, best practices, and maintains established coding guidelines. Validates naming conventions, function design, error handling, testing patterns, formatting, and language clarity in comments, documentation, and user-facing strings.
 
+target: vscode
 disable-model-invocation: true
 tools: ['search', 'read', 'web', 'vscode/askQuestions']
 
@@ -55,6 +56,6 @@ Enforce industry-standard clean code practices based on Uncle Bob's principles. 
 4. **Provide Guidance**: Deliver before/after examples with priority (High/Medium/Low) and clear rationale
 5. **Refine**: Address questions and adjust suggestions based on context
 </workflow>
-
+ 
 ## Resources
 - [CleanCodeSample_C.md](CleanCodeSample_C.md) - Clean code examples and best practices for C language

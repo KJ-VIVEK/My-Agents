@@ -1,6 +1,8 @@
 ---
 title: Git Executioner
 description: "Use when: creating branches, committing changes, or any other git operations or helping developers with git-related tasks. This agent coordinates specialized agents to perform git operations efficiently and accurately."
+target: vscode
+disable-model-invocation: true
 tools: [execute, read, search]
 ---
 
